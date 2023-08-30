@@ -1,3 +1,4 @@
+#Welcome to Nipraxis NI1 (Practical neuroimaging)
 # Diagnostics project
 
 Scripts go in the `scripts` directory.
