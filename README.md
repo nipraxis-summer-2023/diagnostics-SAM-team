@@ -1,6 +1,6 @@
 #Welcome to Nipraxis NI1 (Practical neuroimaging)
 # Diagnostics project
-
+# First edit just for testing (done by Mostafa)
 Scripts go in the `scripts` directory.
 
 Library code (Python modules) goes in the `findoutlie` directory.
